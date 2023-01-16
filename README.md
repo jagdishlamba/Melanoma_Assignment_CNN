@@ -1,5 +1,5 @@
 # Melanoma Skin Cancer Detection Assignment
-> Problem statement: To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+> Problem statement: To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis. <br>
 > Aim: To build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
 
 
@@ -32,6 +32,7 @@
 ## Conclusions
 - Class Imbalance affects the outcome of model significantly.
 - Proper HPT is required to get best model.
+- Tesnsorflow and Keras are very powerfull DL libraries.
 
 
 ## Technologies Used
