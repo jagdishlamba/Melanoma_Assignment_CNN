@@ -16,15 +16,15 @@
 
     The data set contains the following diseases:
 
-    Actinic keratosis
-    Basal cell carcinoma
-    Dermatofibroma
-    Melanoma
-    Nevus
-    Pigmented benign keratosis
-    Seborrheic keratosis
-    Squamous cell carcinoma
-    Vascular lesion
+    Actinic keratosis<br>
+    Basal cell carcinoma<br>
+    Dermatofibroma<br>
+    Melanoma<br>
+    Nevus<br>
+    Pigmented benign keratosis<br>
+    Seborrheic keratosis<br>
+    Squamous cell carcinoma<br>
+    Vascular lesion<br>
 
 
 
